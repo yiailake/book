@@ -14,6 +14,12 @@
 ## Maintainable
 - [Working Effectively with Legacy Code by Michael C. Feathers - 2005](%5BPROGRAMMING%5D%5BWorking%20Effectively.%20with%20Legacy%20Code%5D.pdf)  
 
+## Java
+
+##### Certification
+- [OCA/OCP Java® SE 7. Programmer I & II. Exams 1Z0-803 & 1Z0-804. Study Guide by Oracle - 2015](%5BJAVA%5D%5BOCA%20%26%20OCP%20Java%20SE%207%20Programmer%20I%20%26%20II%20Study%20Guide%20(Exams%201Z0-803%20%26%201Z0-804)%5D.pdf)  
+- [OCA: Oracle®. Certified Associate Java®. SE 8 Programmer I. Exam 1Z0-808. Study Guide by Oracle - 2015](%5BJAVA%5D%5BOCA%20Oracle%20Certified%20Associate%20Java%20SE%208%20Programmer%20I%20Study%20Guide%20Exam%201Z0-808%5D.pdf)  
+
 ## JavaScript
 
 ##### ES6
