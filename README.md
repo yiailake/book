@@ -81,3 +81,7 @@
 - [CORS in Action. Creating and consuming cross-origin APIs by Monsur Hossain - 2015](%5BSECURITY%5D%5BCORS%20in%20Action%5D.pdf)  
 - [Computer Security. Principles and Practice. Third Edition by William Stallings - 2015](%5BSECURITY%5D%5BComputer%20Security%20-%20Principles%20and%20Practice%2C%203rd%20Edition%5D.pdf)  
 - [Cyberspace and Cybersecurity by George Kostopoulos - 2013](%5BSECURITY%5D%5BCyberspace%20and%20Cybersecurity%5D.pdf)
+
+## HTML
+- [Web Standards Mastering HTML5, CSS3, and XML by Leslie F. - 2011](%5BHTML%5D%5BWeb%20Standards%5D.pdf)  
+- [Web Development Recipes 1st Edition by Brian P. Hogan - 2012](%5BHTML%5D%5BWeb%20Development%20Recipes%5D.pdf)  
