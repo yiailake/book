@@ -90,3 +90,4 @@
 ## HTML
 - [Web Standards Mastering HTML5, CSS3, and XML by Leslie F. - 2011](%5BHTML%5D%5BWeb%20Standards%5D.pdf)  
 - [Web Development Recipes 1st Edition by Brian P. Hogan - 2012](%5BHTML%5D%5BWeb%20Development%20Recipes%5D.pdf)  
+- [HTML5 Foundations 1st Edition by Matt West - 2013](%5BHTML%5D%5BHTML5%20Foundations%5D.pdf)  
