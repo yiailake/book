@@ -32,7 +32,8 @@
 ## JavaScript
 
 ##### ES6
-- [Mastering JavaScript Promises](%5BJAVASCRIPT%5D%5BMastering%20JavaScript%20Promises%5D.pdf)
+- [ECMAScript 6 (ES6) guide - 2012](%5BJAVASCRIPT%5D%5BECMAScript%206%20(ES6)%20guide%5D.pdf)  
+- [Mastering JavaScript Promises](%5BJAVASCRIPT%5D%5BMastering%20JavaScript%20Promises%5D.pdf)  
 
 ##### Ajax
 - [Async JavaScript](%5BJAVASCRIPT%5D%5BAsync%20JavaScript%5D.pdf)
