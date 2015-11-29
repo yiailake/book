@@ -15,9 +15,10 @@
 - [Essential Algorithms: A Practical Approach to Computer Algorithms by John Wiley & Sons - 2013](%5BALGORITHMS%5D%5BEssential%20Algorithms%5D.pdf)  
 
 ## Node.js
+- [Smashing Node.js: JavaScript Everywhere Kindle Edition by Guillermo Rauch - 2012](%5BNODE%5D%5BSmashing%20Node.js%5D.pdf)  
 - [Node.js By Example](%5BNODE%5D%5BNode.js%20By%20Example%5D.pdf)  
 - [Pro REST API Development with Node.js](%5BNODE%5D%5BPro%20REST%20API%20Development%20with%20Node.js%5D.pdf)  
-- [NW.js Essentials](%5BNODE%5D%5BNW.js%20Essentials%5D.pdf)
+- [NW.js Essentials](%5BNODE%5D%5BNW.js%20Essentials%5D.pdf)  
 
 ## Maintainable
 - [Working Effectively with Legacy Code by Michael C. Feathers - 2005](%5BPROGRAMMING%5D%5BWorking%20Effectively.%20with%20Legacy%20Code%5D.pdf)  
