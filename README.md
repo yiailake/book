@@ -50,7 +50,10 @@
 - [Learning JavaScript Design Patterns](%5BJAVASCRIPT%5D%5BLearning%20JavaScript%20Design%20Patterns%5D.pdf)
 
 ##### Algorithms
-- [Data Structures and Algorithms with JavaScript](%5BJAVASCRIPT%5D%5BData%20Structures%20and%20Algorithms%20with%20JavaScript%5D.pdf)
+- [Data Structures and Algorithms with JavaScript](%5BJAVASCRIPT%5D%5BData%20Structures%20and%20Algorithms%20with%20JavaScript%5D.pdf)  
+
+##### Functional programming
+- [Functional JavaScript by Michael Fogus, First Edition - 2013](%5BJAVASCRIPT%5D%5BFunctional%20JavaScript%5D.pdf)  
 
 ##### Security
 - [JavaScript Security](%5BJAVASCRIPT%5D%5BJavaScript%20Security%5D.pdf)
