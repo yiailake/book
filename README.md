@@ -84,7 +84,11 @@
 - [Регулярные выражения. Сборник рецептов, Ян Гойвертс, Стивен Левитан - 2010](%5BREGEXP%5D%5BРегулярные%20выражения.%20Сборник%20рецептов%5D.pdf)
 
 ## XSLT
-- [XSLT. 2-е издание, Дуг Тидуэлл - 2010](%5BXSLT%5D%5BXSLT%2C%202-е%20издание%5D.pdf)
+- [XSLT. 2-е издание, Дуг Тидуэлл - 2010](%5BXSLT%5D%5BXSLT%2C%202-е%20издание%5D.pdf)  
+- [XSLT Tutorial, tutorialspoint.com - 2015](%5BXSLT%5D%5BXSLT%20Tutorial%2C%20tutorialspoint.com%5D.pdf)  
+
+## XML
+- [XHTML Tutorial, tutorialspoint.com - 2015](%5BXML%5D%5BXHTML%20Tutorial%2C%20tutorialspoint.com%5D.pdf)  
 
 ## Security
 - [CORS in Action. Creating and consuming cross-origin APIs by Monsur Hossain - 2015](%5BSECURITY%5D%5BCORS%20in%20Action%5D.pdf)  
@@ -95,3 +99,6 @@
 - [Web Standards Mastering HTML5, CSS3, and XML by Leslie F. - 2011](%5BHTML%5D%5BWeb%20Standards%5D.pdf)  
 - [Web Development Recipes 1st Edition by Brian P. Hogan - 2012](%5BHTML%5D%5BWeb%20Development%20Recipes%5D.pdf)  
 - [HTML5 Foundations 1st Edition by Matt West - 2013](%5BHTML%5D%5BHTML5%20Foundations%5D.pdf)  
+
+## WEBRTC
+- [WebRTC Tutorial, tutorialspoint.com - 2015](%5BWEBRTC%5D%5BWebRTC%20Tutorial%2C%20tutorialspoint.com%5D.pdf)  
