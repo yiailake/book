@@ -8,6 +8,9 @@
 - [301 Best Questions to Ask on Your Interview, Second Edition by John Kador - 2010](%5BINTERVIEW%5D%5B301%20Best%20Questions%20to%20Ask%20on%20Your%20Interview%2C%202%20Edition%5D.pdf)  
 - [101 Great Resumes by Ron Fry, 3rd Edition - 2009](%5BINTERVIEW%5D%5B101%20Great%20Resumes%20by%20Ron%20Fry%2C%203rd%20Edition%5D.pdf)  
 
+## Software development
+- [SDLC Tutorial, tutorialspoint.com - 2015](%5BPROGRAMMING%5D%5BSDLC%20Tutorial%2C%20tutorialspoint.com%5D.pdf)  
+
 ## Cloud
 - [Cloud Architecture Patterns by Bill Wilder - 2012](%5BCLOUD%5D%5BCloud%20Architecture%20Patterns%5D.pdf)  
 
@@ -58,6 +61,11 @@
 
 ##### Security
 - [JavaScript Security](%5BJAVASCRIPT%5D%5BJavaScript%20Security%5D.pdf)
+
+##### Google Maps
+- [Beginning Google Maps API 3 by Gabriel Svennerberg - 2010](%5BJAVASCRIPT%5D%5BBeginning%20Google%20Maps%20API%203%5D.pdf)  
+- [Google Maps JavaScript API Cookbook by Alper Dincer - 2013](%5BJAVASCRIPT%5D%5BGoogle%20Maps%20JavaScript%20API%20Cookbook%5D.pdf)  
+- [Google maps Tutorial, tutorialspoint.com - 2015](%5BJAVASCRIPT%5D%5BGoogle%20maps%20Tutorial%2C%20tutorialspoint.com%5D.pdf)  
 
 ##### Domain Driven Design
 - [JavaScript Domain-Driven Design](%5BJAVASCRIPT%5D%5BJavaScript%20Domain-Driven%20Design%5D.pdf)
