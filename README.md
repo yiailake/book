@@ -118,3 +118,8 @@
 
 ## WEBRTC
 - [WebRTC Tutorial, tutorialspoint.com - 2015](%5BWEBRTC%5D%5BWebRTC%20Tutorial%2C%20tutorialspoint.com%5D.pdf)  
+
+## WEB
+
+##### HTTP
+- [HTTP: The Definitive Guide by David Gourley - 2002](%5BWEB%5D%5BHTTP%20-%20The%20Definitive%20Guide%5D.pdf)  
