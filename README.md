@@ -84,7 +84,8 @@
 - [AngularJS: Up And Running by Shyam Seshadri and Brad Green - 2014](%5BJAVASCRIPT%5D%5BAngularJS%20Up%20And%20Running%5D.pdf)  
 - [Dependency Injection with AngularJS by Alex Knol - 2013](%5BJAVASCRIPT%5D%5BDependency%20Injection%20with%20AngularJS%5D.pdf)  
 - [Professional AngularJS by Diego Netto - 2015](%5BJAVASCRIPT%5D%5BProfessional%20AngularJS%5D.pdf)  
-- [Learning AngularJS Animations by Richard Keller - 2014](%5BJAVASCRIPT%5D%5BLearning%20AngularJS%20Animations%5D.pdf)
+- [Learning AngularJS Animations by Richard Keller - 2014](%5BJAVASCRIPT%5D%5BLearning%20AngularJS%20Animations%5D.pdf)  
+- [Angular JS Tutorial, tutorialspoint.com - 2015](%5BJAVASCRIPT%5D%5BAngular%20JS%20Tutorial%2C%20tutorialspoint.com%5D.pdf)  
 
 ##### Certification
 - [Exam Ref 70-480 Programming in HTML5 with JavaScript and CSS3](%5BJAVASCRIPT%5D%5BExam%20Ref%2070-480%20Programming%20in%20HTML5%20with%20JavaScript%20and%20CSS3%5D.pdf)
