@@ -1,5 +1,8 @@
 # Programming books [2015]
 
+## Big data
+- [MapReduce - Quick Guide, tutorialspoint.com - 2015](%5BBIG%20DATA%5D%5BMapReduce%20-%20Quick%20Guide%2C%20tutorialspoint.com%5D.pdf)  
+
 ## Interview
 - [Programming Interviews Exposed. Secrets to Landing Your Next Job, Third Edition by John Mongan - 2013](%5BINTERVIEW%5D%5BProgramming%20Interviews%20Exposed.%20Secrets%20to%20Landing%20Your%20Next%20Job%2C%20Third%20Edition%20-%20Secrets%20to%20Landing%20Your%20Next%20Job%5D.pdf)  
 - [Cracking the Coding Interview, 4 Edition by Gayle Laakmann - 2008](%5BINTERVIEW%5D%5BCracking%20the%20Coding%20Interview%2C%204%20Edition%20-%20150%20Programming%20Interview%20Questions%20and%20Solutions%5D.pdf)  
