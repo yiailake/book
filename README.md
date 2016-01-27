@@ -89,6 +89,7 @@
 - [Professional AngularJS by Diego Netto - 2015](%5BJAVASCRIPT%5D%5BProfessional%20AngularJS%5D.pdf)  
 - [Learning AngularJS Animations by Richard Keller - 2014](%5BJAVASCRIPT%5D%5BLearning%20AngularJS%20Animations%5D.pdf)  
 - [Angular JS Tutorial, tutorialspoint.com - 2015](%5BJAVASCRIPT%5D%5BAngular%20JS%20Tutorial%2C%20tutorialspoint.com%5D.pdf)  
+- [AngularJS Novice to Ninja by Sandeep Panda - 2014](%5BJAVASCRIPT%5D%5BAngularJS%20Novice%20to%20Ninja%5D.pdf)  
 
 ##### Certification
 - [Exam Ref 70-480 Programming in HTML5 with JavaScript and CSS3](%5BJAVASCRIPT%5D%5BExam%20Ref%2070-480%20Programming%20in%20HTML5%20with%20JavaScript%20and%20CSS3%5D.pdf)
