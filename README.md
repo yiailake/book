@@ -96,6 +96,9 @@
 ##### Certification
 - [Exam Ref 70-480 Programming in HTML5 with JavaScript and CSS3](%5BJAVASCRIPT%5D%5BExam%20Ref%2070-480%20Programming%20in%20HTML5%20with%20JavaScript%20and%20CSS3%5D.pdf)
 
+##### Presentations
+- [Scalable JavaScript Application Architecture by Nicholas C. Zakas](%5BJAVASCRIPT%5D%5BPRESENTATION%5D%5BScalable%20JavaScript%20Application%20Architecture%5D.pdf)
+
 ## CSS
 
 ##### Twitter Bootstrap
