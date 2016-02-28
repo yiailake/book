@@ -91,7 +91,7 @@
 - [Angular JS Tutorial, tutorialspoint.com - 2015](%5BJAVASCRIPT%5D%5BAngular%20JS%20Tutorial%2C%20tutorialspoint.com%5D.pdf)  
 - [AngularJS Novice to Ninja by Sandeep Panda - 2014](%5BJAVASCRIPT%5D%5BAngularJS%20Novice%20to%20Ninja%5D.pdf)  
 - [Data-oriented Development with AngularJS by Manoj Waikar - 2015](%5BJAVASCRIPT%5D%5BData-oriented%20Development%20with%20AngularJS%5D.pdf)  
-- [AngularJS by Example by Chandermani - 2015](%5BJAVASCRIPT%5D%5BAngularJS%20by%20Example%5D.pdf)  
+- [AngularJS Example by Chandermani - 2015](%5BJAVASCRIPT%5D%5BAngularJS%20by%20Example%5D.pdf)  
 - [AngularJS Essentials by Rodrigo Branas - 2014](%5BJAVASCRIPT%5D%5BAngularJS%20Essentials%5D.pdf)  
 
 ##### Certification
