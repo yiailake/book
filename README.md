@@ -39,6 +39,9 @@
 - [Android Application Development For Dummies by Donn Felker - 2011](%5BANDROID%5D%5BAndroid%20Application%20Development%20For%20Dummies%5D.pdf)  
 - [Building Android Apps with HTML, CSS, and JavaScript by Jonathan Stark - 2010](%5BANDROID%5D%5BBuilding%20Android%20Apps%20with%20HTML%2C%20CSS%2C%20and%20JavaScript%5D.pdf)  
 - [Introduction to Android™ Application Development, Fourth Edition by Joseph Annuzzi - 2014](%5BANDROID%5D%5BIntroduction%20to%20Android%20Application%20Development%5D.pdf)  
+- [Learn Java for Android Development, Third Edition by Jeff Friesen - 2014](%5BANDROID%5D%5BLearn%20Java%20for%20Android%20Development%2C%203rd%20Edition%5D.pdf)  
+- [Learning Android, Second Edition by Marko Gargenta and Masumi Nakamura - 2014](%5BANDROID%5D%5BLearning%20Android%2C%202nd%20Edition%5D.pdf)  
+- [Learning Java by Building Android Games by John Horton - 2015](%5BANDROID%5D%5BLearning%20Java%20by%20Building%20Android%20Games%5D.pdf)  
 
 ## JavaScript
 
