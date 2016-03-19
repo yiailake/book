@@ -35,6 +35,11 @@
 - [OCA/OCP Java® SE 7. Programmer I & II. Exams 1Z0-803 & 1Z0-804. Study Guide by Oracle - 2015](%5BJAVA%5D%5BOCA%20%26%20OCP%20Java%20SE%207%20Programmer%20I%20%26%20II%20Study%20Guide%20(Exams%201Z0-803%20%26%201Z0-804)%5D.pdf)  
 - [OCA: Oracle®. Certified Associate Java®. SE 8 Programmer I. Exam 1Z0-808. Study Guide by Oracle - 2015](%5BJAVA%5D%5BOCA%20Oracle%20Certified%20Associate%20Java%20SE%208%20Programmer%20I%20Study%20Guide%20Exam%201Z0-808%5D.pdf)  
 
+##### Android
+- [Android Application Development For Dummies by Donn Felker - 2011](%5BANDROID%5D%5BAndroid%20Application%20Development%20For%20Dummies%5D.pdf)  
+- [Building Android Apps with HTML, CSS, and JavaScript by Jonathan Stark - 2010](%5BANDROID%5D%5BBuilding%20Android%20Apps%20with%20HTML%2C%20CSS%2C%20and%20JavaScript%5D.pdf)  
+- [Introduction to Android™ Application Development, Fourth Edition by Joseph Annuzzi - 2014](%5BANDROID%5D%5BIntroduction%20to%20Android%20Application%20Development%5D.pdf)  
+
 ## JavaScript
 
 ##### ES6
