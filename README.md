@@ -29,6 +29,17 @@
 ## Maintainable
 - [Working Effectively with Legacy Code by Michael C. Feathers - 2005](%5BPROGRAMMING%5D%5BWorking%20Effectively.%20with%20Legacy%20Code%5D.pdf)  
 
+## iOS
+
+##### iOS JavaScript
+- [Beginning iOS Application Development with HTML and JavaScript by Richard Wagner - 2012](%5BIOS%5D%5BBeginning%20iOS%20Application%20Development%20with%20HTML%20and%20JavaScript%5D.pdf)  
+- [Learning HTML5 and JavaScript for iOS by Scott Preston - 2012](%5BIOS%5D%5BLearn%20HTML5%20and%20JavaScript%20for%20iOS%5D.pdf)  
+- [Pro iOS Web Design and Development: HTML5, CSS3, and JavaScript with Safari by Andrea Picchi - 2011](%5BIOS%5D%5BPro%20iOS%20Web%20Design%20and%20Development%5D.pdf)  
+
+##### Swift
+- [iOS 8 Swift Programming Cookbook by Vandad Nahavandipoor - 2015](%5BIOS%5D%5BiOS%208%20Swift%20Programming%20Cookbook%5D.pdf)  
+- [Welcome to Swift, Apple Inc. - 2014](%5BIOS%5D%5BWelcome%20to%20Swift%5D.pdf)  
+
 ## Java
 
 ##### Certification
