@@ -42,6 +42,9 @@
 - [Learn Java for Android Development, Third Edition by Jeff Friesen - 2014](%5BANDROID%5D%5BLearn%20Java%20for%20Android%20Development%2C%203rd%20Edition%5D.pdf)  
 - [Learning Android, Second Edition by Marko Gargenta and Masumi Nakamura - 2014](%5BANDROID%5D%5BLearning%20Android%2C%202nd%20Edition%5D.pdf)  
 - [Learning Java by Building Android Games by John Horton - 2015](%5BANDROID%5D%5BLearning%20Java%20by%20Building%20Android%20Games%5D.pdf)  
+- [Mastering Android Application Development by Antonio Pachón Ruiz - 2015](%5BANDROID%5D%5BMastering%20Android%20Application%20Development%5D.pdf)  
+- [Professional Android Application Development by Reto Meier - 2009](%5BANDROID%5D%5BProfessional%20Android%20Application%20Development%5D.pdf)  
+- [Programming Android, Second Edition by Zigurd Mednieks - 2012](%5BANDROID%5D%5BProgramming%20Android%2C%202nd%20Edition%5D.pdf)  
 
 ## JavaScript
 
