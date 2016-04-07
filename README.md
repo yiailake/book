@@ -69,6 +69,9 @@
 ##### Event Loop Model
 - [The Parallel Event Loop Model and Runtime by Daniele Bonetta - 2014](%5BJAVASCRIPT%5D%5BThe%20Parallel%20Event%20Loop%20Model%20and%20Runtime%5D.pdf)  
 
+##### SPA
+- [SPA Design and Architecture by Emmit Scott - 2016](%5BJAVASCRIPT%5D%5BSPA%20Design%20and%20Architecture%5D.pdf)  
+
 ##### ES6
 - [ECMAScript 6 (ES6) guide - 2015](%5BJAVASCRIPT%5D%5BECMAScript%206%20(ES6)%20guide%5D.pdf)  
 - [Mastering JavaScript Promises by Muzzamil Hussain – 2015](%5BJAVASCRIPT%5D%5BMastering%20JavaScript%20Promises%5D.pdf)  
